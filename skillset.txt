@@ -1,0 +1,49 @@
+Programming languages
+Java
+Python
+C++
+C
+Ruby
+JavaScript
+Agile 
+Scrum
+software development methodologies
+operating systems
+Windows
+macOS
+Linux
+database management systems 
+SQL
+MongoDB
+FireBase
+PHP
+web development
+HTML5
+CSS3
+React 
+Angular
+NodeJs
+Django
+Version control
+Git
+testing frameworks
+JUnit 
+Selenium
+jenkins
+Eclipse
+Visual Studio
+IntelliJ IDEA
+cloud computing
+Amazon Web Services (AWS) 
+Kubernetes
+Google Cloud
+Microsoft Azure
+virtualization technologies
+containerization technologies
+Docker
+SpringBoot
+algorithms 
+data structures
+network protocols
+computer networking
+TCP/IP
